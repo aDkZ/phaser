@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Emperor",
+				"Emperor"
+			],
+			[
+				"Emper",
+				"Emperor"
+			],
+			[
+				"Wo",
+				"WoL"
+			],
+			[
+				"curr",
+				"currHP"
+			],
+			[
+				"W",
+				"WoL"
+			],
+			[
+				"le",
+				"levelUp"
+			],
+			[
+				"Emp",
+				"Emperor"
+			],
+			[
+				"Te",
+				"TerraP"
+			],
+			[
+				"Lig",
+				"Lightning"
+			],
+			[
+				"Firio",
+				"FirionP"
+			],
+			[
+				"get",
+				"getprefabChars"
+			],
+			[
+				"HUD",
+				"HUDText"
+			],
+			[
+				"emp",
+				"Emperor"
+			],
+			[
+				"Empe",
+				"EmperorP"
+			],
+			[
+				"cur",
+				"currStats"
+			],
+			[
+				"ma",
+				"maxSP"
+			],
+			[
+				"WoL",
+				"WoLP"
+			],
+			[
+				"HP",
+				"HPText"
+			],
+			[
+				"s",
+				"setTo"
+			],
+			[
+				"bo",
+				"Border_V"
+			],
+			[
+				"Far",
+				"Farplane_BG2"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"Curr",
+				"Curr"
+			],
+			[
+				"Up",
+				"Up"
+			],
+			[
+				"Le",
+				"Left"
+			],
+			[
+				"Cur",
+				"Curr"
+			],
+			[
+				"Do",
+				"Down"
+			],
+			[
+				"Down",
+				"DownValue"
+			],
+			[
+				"Right",
+				"RightValue"
+			],
+			[
+				"Rig",
+				"Right"
+			],
+			[
+				"Righ",
+				"Right"
+			],
+			[
+				"R",
+				"RightID"
+			],
+			[
+				"Ri",
+				"RightValue"
+			],
+			[
+				"fi",
+				"fixedString"
+			],
+			[
+				"Lef",
+				"LeftValue"
+			],
+			[
+				"U",
+				"UpValue"
+			],
+			[
+				"Left",
+				"LeftValue"
+			],
+			[
+				"arr",
+				"Array"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"d",
+				"drawDiv"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"dr",
+				"drawDivs"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 281,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<html>"
+			}
+		},
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 5821,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "var game = new Phaser.Game(500,500, Phaser.AUTO, '"
+			}
+		},
+		{
+			"file": "js/exscript.js",
+			"settings":
+			{
+				"buffer_size": 2672,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "function drawhud(){"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/TI/Project/Phaser1/script.js",
+		"/G/TI/Project/Phaser1/phaser.min.js",
+		"/G/TI/Project/Phaser1/phaser.js",
+		"/G/TI/Phonegap/b/www/index.html",
+		"/G/TI/Phonegap/Examen 2 (mobile port)/config.xml",
+		"/G/TI/Examen 2/index.html",
+		"/G/TI/Examen 2/styles.css",
+		"/G/TI/Examen 2/script.js",
+		"/G/TI/web/Practica5/style.css",
+		"/G/TI/Examen 2/jquery-3.2.0.min.js",
+		"/G/TI/web/Practica5/script.js",
+		"/G/TI/web/Practica5/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"HPText",
+			"wol",
+			"wolp",
+			"alert",
+			"prompt",
+			"jugador",
+			"X"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"HUDText",
+			"WoL",
+			"WoLP"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<html>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5392,
+								5392
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var game = new Phaser.Game(500,500, Phaser.AUTO, '",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/exscript.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								924,
+								924
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function drawhud(){",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Phaser1.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
